@@ -1,4 +1,4 @@
-criei para ser dinamico e didatico o entendimento nao so meu mas quem um dia por acaso precisar aplicar em algo como uma pagina de vendas e para consulto proprio venhar rever e me lembrar os comandos para manipular a tag video...
+criei para ser dinamico e didatico o entendimento nao so meu mas quem um dia por acaso precisar aplicar em algo como uma pagina de vendas e para consulto proprio venhar rever e me lembrar os comandos para manipular a tag video...vgfb
 
 
 .pause()
